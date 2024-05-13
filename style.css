@@ -1,0 +1,44 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+html,body{
+height: 100%;
+width: 100%;
+}
+#page1{
+    height:100vh;
+    width: 100%;
+    background-color: salmon;
+}
+#page2{
+    height:100vh;
+    width: 100%;
+    background-color:cornflowerblue;
+}
+#page3{
+    height:100vh;
+    width: 100%;
+    background-color:cyan;
+}
+#page4{
+    height:100vh;
+    width: 100%;
+    background-color:darkkhaki;
+}
+#page5{
+    height:100vh;
+    width: 100%;
+    background-color:aquamarine;
+}
+#page6{
+    height:100vh;
+    width: 100%;
+    background-color:greenyellow;
+}
+#page7{
+    height:100vh;
+    width: 100%;
+    background-color: black;
+}
